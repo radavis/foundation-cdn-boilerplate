@@ -1,0 +1,12 @@
+{
+  "name": "Foundation CDN Boilerplate",
+  "description": "Easily add the Foundation and jQuery frameworks to a Web App.",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "dependencies": {
+    "foundation": "6.2.4",
+    "jquery": "3.1.1"
+  },
+  "license": "MIT"
+}
